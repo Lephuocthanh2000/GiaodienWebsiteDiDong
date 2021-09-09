@@ -1,2 +1,3 @@
-# trang-web-ca-nhan
-Viết trang web về bản thân. Tập sử dụng GitHub lần đầu tiên
+# trang-web-ban-dien-thoai-di-dong
+Giao diện trang web shop bán điện thoại di động. Đồ án môn thiết kế web viết bằng Java
+
